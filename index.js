@@ -1,1 +1,1 @@
-console.log("Hellow, Hexlet!");
+console.log("Hello, Hexlet!");
